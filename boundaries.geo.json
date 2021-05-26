@@ -516,7 +516,8 @@
                 ]
             },
             "properties": {
-                "name": "EU West",
+                "name": "Europe West",
+                "atcRegion":"Europe West",
                 "styleUrl": "#msn_ylw-pushpin01",
                 "styleHash": "1b718f74",
                 "styleMapHash": {
@@ -824,6 +825,7 @@
             },
             "properties": {
                 "name": "South America",
+                "atcRegion":"South America",
                 "styleUrl": "#msn_ylw-pushpin13",
                 "styleHash": "7ba09977",
                 "styleMapHash": {
@@ -2161,6 +2163,7 @@
             },
             "properties": {
                 "name": "US East",
+                "atcRegion":"US East",
                 "styleUrl": "#msn_ylw-pushpin30",
                 "styleHash": "5ac4c5a9",
                 "styleMapHash": {
@@ -3273,6 +3276,7 @@
             },
             "properties": {
                 "name": "US West",
+                "atcRegion":"US West",
                 "styleUrl": "#msn_ylw-pushpin21",
                 "styleHash": "-599fca2e",
                 "styleMapHash": {
@@ -3330,6 +3334,7 @@
             },
             "properties": {
                 "name": "US West (East)",
+                "atcRegion":"US West",
                 "styleUrl": "#msn_ylw-pushpin",
                 "styleHash": "-6623418c",
                 "styleMapHash": {
@@ -4192,6 +4197,7 @@
             },
             "properties": {
                 "name": "Canada",
+                "atcRegion":"Canada",
                 "styleUrl": "#msn_ylw-pushpin20",
                 "styleHash": "-57929688",
                 "styleMapHash": {
@@ -4369,6 +4375,7 @@
             },
             "properties": {
                 "name": "Africa",
+                "atcRegion":"Africa",
                 "styleUrl": "#msn_ylw-pushpin14",
                 "styleHash": "2a54227a",
                 "styleMapHash": {
@@ -5441,6 +5448,7 @@
             },
             "properties": {
                 "name": "Middle East",
+                "atcRegion":"Middle East",
                 "styleUrl": "#msn_ylw-pushpin60",
                 "styleHash": "53ea85c",
                 "styleMapHash": {
@@ -6553,6 +6561,7 @@
             },
             "properties": {
                 "name": "Europe East",
+                "atcRegion":"Europe East",
                 "styleUrl": "#msn_ylw-pushpin31",
                 "styleHash": "2e058d5",
                 "styleMapHash": {
@@ -6620,6 +6629,7 @@
             },
             "properties": {
                 "name": "Europe East (West)",
+                "atcRegion":"Europe East",
                 "styleUrl": "#msn_ylw-pushpin41",
                 "styleHash": "-3de04d0f",
                 "styleMapHash": {
@@ -7482,6 +7492,7 @@
             },
             "properties": {
                 "name": "Asia",
+                "atcRegion":"Asia",
                 "styleUrl": "#msn_ylw-pushpin50",
                 "styleHash": "-71b3ba09",
                 "styleMapHash": {
@@ -7634,6 +7645,7 @@
             },
             "properties": {
                 "name": "Oceania (East)",
+                "atcRegion":"Oceania",
                 "styleUrl": "#msn_ylw-pushpin000",
                 "styleHash": "-38e06c71",
                 "styleMapHash": {
@@ -7745,7 +7757,8 @@
                 ]
             },
             "properties": {
-                "name": "Oceania West",
+                "name": "Oceania (West)",
+                "atcRegion":"Oceania",
                 "styleUrl": "#msn_ylw-pushpin410",
                 "styleHash": "2b623203",
                 "styleMapHash": {
